@@ -1,2 +1,2 @@
-# csgo-helper-locations
+# Csgo Helper Locations
 Csgo nade helper locations
